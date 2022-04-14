@@ -6,7 +6,7 @@ const About =() =>{
         <>
 
         <Head>
-        <title>Ninja List | About</title>
+        <title>Next JS | About</title>
         <meta name='keywords' content='ninjas'/>
       </Head>
 
